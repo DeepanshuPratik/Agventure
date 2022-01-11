@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/img_leaves.xml" value="0.23958333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_auth.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_on_boarding.xml" value="0.2234375" />
+        <entry key="app/src/main/res/layout/fragment_onboarding.xml" value="0.2234375" />
+        <entry key="app/src/main/res/layout/fragment_onboarding1.xml" value="0.2234375" />
+        <entry key="auth/src/main/res/drawable/img_leaves.xml" value="0.23958333333333334" />
+        <entry key="auth/src/main/res/layout/activity_main.xml" value="0.10955710955710955" />
+        <entry key="auth/src/main/res/layout/activity_setting_up.xml" value="0.2234375" />
+        <entry key="auth/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="auth/src/main/res/layout/fragment_auth.xml" value="0.25" />
+        <entry key="auth/src/main/res/layout/fragment_on_boarding.xml" value="0.2234375" />
+        <entry key="buyer/src/main/res/drawable/ic_empty_state.xml" value="0.22037037037037038" />
+        <entry key="buyer/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="buyer/src/main/res/layout/buyer_product_card.xml" value="0.2234375" />
+        <entry key="seller/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="seller/src/main/res/layout/add_fragment.xml" value="0.17592592592592593" />
+        <entry key="seller/src/main/res/layout/home_fragment.xml" value="0.1" />
+        <entry key="seller/src/main/res/layout/product_card.xml" value="0.13385416666666666" />
+        <entry key="smsreceiver/src/main/res/layout/activity_main.xml" value="0.2234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
